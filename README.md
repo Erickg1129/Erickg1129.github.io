@@ -1,9 +1,9 @@
 <h1 style="color:SteelBlue;">Erick S. Guevara</h1>
 
-<img src="img_girl.jpg" alt="Girl in a jacket" width="10" height="10">&emsp; <img src="img_girl.jpg" alt="Girl in a jacket" width="10" height="10">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="10" height="10">&emsp; <img src="img_girl.jpg" alt="Girl in a jacket" width="10" height="10"> 
+<img src="/images/linkeid.png" alt="LinkedIn" width="60" height="60"> &emsp; <img src="/images/4288583_document_file_research_resume_search_icon.png" alt="Resume" width="60" height="60">&emsp;
+<img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/4202011_email_gmail_mail_logo_social_icon.png" alt="Gmail" width="60" height="60">
 
-<a href="https://www.linkedin.com/in/erick-said-guevara/" class="button">Linkedin</a> &emsp; <a href="https://www.linkedin.com/in/erick-said-guevara/" class="button">Resume</a> &emsp; <a href = "mailto: ericksaid1129@gmail.com">Contact Via Email</a>
+<a href="https://www.linkedin.com/in/erick-said-guevara/" class="button">Linkedin</a> &emsp; <a href="https://www.linkedin.com/in/erick-said-guevara/" class="button">Resume</a> &emsp; <a href = "mailto: ericksaid1129@gmail.com">  Email</a>
 
 # Data Science Projects
 ### Project 1 - Tiktok Correlation Project Overview
