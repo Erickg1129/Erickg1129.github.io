@@ -1,6 +1,6 @@
 # Erick Guevara
 
-![alt text](/images/linkeid.png)
+![alt text](/images/linkeid.png = 100x20)
 
 # Data Science Projects
 ### Project 1 - Tiktok Correlation Project Overview
