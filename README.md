@@ -1,6 +1,5 @@
 # Erick Guevara
-
-<img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/linkeid.png"  width="50" height="50">
+<img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/linkeid.png"  width="50" height="50"> <img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/linkeid.png"  width="50" height="50">
 
 <a href="https://www.linkedin.com/in/erick-said-guevara/" class="button">Linkedin</a>
 
@@ -12,8 +11,6 @@
 * This project was done in solely in R using R Studio. 
 
 ![alt text](/images/geom_point.png)
-
-<img src="/images/geom_point.png"  width="50" height="50">
 
 ![alt text](/images/ggcor.png)
 
