@@ -3,6 +3,8 @@
 
 <img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/linkeid.png"  width="50" height="50">
 
+<a href="https://google.com" class="button">Go to Google</a>
+
 # Data Science Projects
 ### Project 1 - Tiktok Correlation Project Overview
 * Dataset: Tiktok Dataset that included Tiktoker's Username, Likes Avg, Views Avg, Comment Avg, and Subscribers.
