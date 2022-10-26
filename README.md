@@ -5,6 +5,18 @@
 
 <a href="https://www.linkedin.com/in/erick-said-guevara/" class="button">Linkedin</a>
 
+<div class="row">
+  <div class="column">
+    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
 # Data Science Projects
 ### Project 1 - Tiktok Correlation Project Overview
 * Dataset: Tiktok Dataset that included Tiktoker's Username, Likes Avg, Views Avg, Comment Avg, and Subscribers.
