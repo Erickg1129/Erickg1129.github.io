@@ -1,36 +1,9 @@
 # Erick Guevara
 
-
 <img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/linkeid.png"  width="50" height="50">
 
 <a href="https://www.linkedin.com/in/erick-said-guevara/" class="button">Linkedin</a>
 
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/linkeid.png" alt="Snow" style="width:20%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/linkeid.png" alt="Forest" style="width:10%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/linkeid.png" alt="Mountains" style="width:5%">
-  </div>
-</div>
-
-column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-.row {
-  display: flex;
-}
-
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
 # Data Science Projects
 ### Project 1 - Tiktok Correlation Project Overview
 * Dataset: Tiktok Dataset that included Tiktoker's Username, Likes Avg, Views Avg, Comment Avg, and Subscribers.
@@ -39,6 +12,8 @@ column {
 * This project was done in solely in R using R Studio. 
 
 ![alt text](/images/geom_point.png)
+
+<img src="/images/geom_point.png"  width="50" height="50">
 
 ![alt text](/images/ggcor.png)
 
