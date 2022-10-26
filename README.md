@@ -1,7 +1,7 @@
 # Erick Guevara
 
 
-<img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/linkeid.png"  width="100" height="100">
+<img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/linkeid.png"  width="50" height="50">
 
 # Data Science Projects
 ### Project 1 - Tiktok Correlation Project Overview
