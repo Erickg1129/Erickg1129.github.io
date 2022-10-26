@@ -1,9 +1,6 @@
 # Erick Guevara
-<img src="/images/linkeid.png"  width="50" height="50"> 
 
-<a href="https://www.linkedin.com/in/erick-said-guevara/" class="button">Linkedin</a>
-
-
+<a href="https://www.linkedin.com/in/erick-said-guevara/" class="button">Linkedin</a> &emsp; <a href="https://www.linkedin.com/in/erick-said-guevara/" class="button">Linkedin</a>
 
 # Data Science Projects
 ### Project 1 - Tiktok Correlation Project Overview
