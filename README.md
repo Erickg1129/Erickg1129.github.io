@@ -7,7 +7,7 @@
 * Using Tidyverse, I was able to visualize the Data, using the ggcorplot function, and ggplot and stat_smooth
 * This project was done in R using R Studio. 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/geom_point.png)
 
 
 <button name="button" onclick="http://www.google.com">Click me</button>
