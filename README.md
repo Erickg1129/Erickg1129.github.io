@@ -7,4 +7,5 @@
 * Using Tidyverse, I was able to visualize the Data, using the ggcorplot function, and ggplot and stat_smooth
 * This project was done in R using R Studio. 
 
-[Click me](http://www.google.com){: .btn}
+> :Buttons
+> > :Button label=GitHub, url=https://github.com
