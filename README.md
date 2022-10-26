@@ -3,7 +3,7 @@
 
 <img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/linkeid.png"  width="50" height="50">
 
-<a href="https://google.com" class="button">Go to Google</a>
+<a href="https://www.linkedin.com/in/erick-said-guevara/" class="button">Linkedin</a>
 
 # Data Science Projects
 ### Project 1 - Tiktok Correlation Project Overview
