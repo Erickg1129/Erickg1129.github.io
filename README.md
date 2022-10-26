@@ -9,7 +9,6 @@
 
 ![alt text](https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/geom_point.png)
 
-![](https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/ggcor.png)
+![alt text](https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/ggcor.png)
 
 
-<button name="button" onclick="http://www.google.com">Click me</button>
