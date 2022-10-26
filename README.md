@@ -1,8 +1,7 @@
 # Erick Guevara
 
-![alt text](/images/linkeid.png = 100x)
 
-<img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/linkeid.png"  width="600" height="300">
+<img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/linkeid.png"  width="100" height="100">
 
 # Data Science Projects
 ### Project 1 - Tiktok Correlation Project Overview
