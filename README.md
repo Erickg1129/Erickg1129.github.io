@@ -7,13 +7,13 @@
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/linkeid.png" alt="Snow" style="width:100%">
+    <img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/linkeid.png" alt="Snow" style="width:20%">
   </div>
   <div class="column">
-    <img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/linkeid.png" alt="Forest" style="width:100%">
+    <img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/linkeid.png" alt="Forest" style="width:10%">
   </div>
   <div class="column">
-    <img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/linkeid.png" alt="Mountains" style="width:100%">
+    <img src="https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/linkeid.png" alt="Mountains" style="width:5%">
   </div>
 </div>
 
