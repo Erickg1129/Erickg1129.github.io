@@ -2,7 +2,7 @@
 
 ![alt text](/images/linkeid.png = 100x)
 
-<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg">
+<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg"  width="600" height="300">
 
 # Data Science Projects
 ### Project 1 - Tiktok Correlation Project Overview
