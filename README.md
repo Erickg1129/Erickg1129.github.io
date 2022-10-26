@@ -3,6 +3,8 @@
 
 <a href="https://www.linkedin.com/in/erick-said-guevara/" class="button">Linkedin</a>
 
+
+
 # Data Science Projects
 ### Project 1 - Tiktok Correlation Project Overview
 * Dataset: Tiktok Dataset that included Tiktoker's Username, Likes Avg, Views Avg, Comment Avg, and Subscribers.
