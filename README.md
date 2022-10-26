@@ -7,8 +7,8 @@
 * Using Tidyverse, I was able to visualize the Data, using the ggcorplot function, and ggplot and stat_smooth
 * This project was done in R using R Studio. 
 
-![alt text](https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/geom_point.png)
+![alt text](/images/geom_point.png)
 
-![alt text](https://github.com/Erickg1129/erickg1129.github.io/blob/main/images/ggcor.png)
+![alt text](/images/ggcor.png)
 
 
