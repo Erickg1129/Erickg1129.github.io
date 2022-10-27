@@ -1,6 +1,6 @@
-<h1 style="color:SteelBlue;">Erick S. Guevara</h1>
+<img src="/images/Said%20Furioso.png" alt="Avatar" class="avatar" width="90" height = "90"> <h1 style="color:SteelBlue;">Erick S. Guevara </h1> 
 
-<img src="/images/linkeid.png" alt="LinkedIn" width="60" height="60"> &emsp; <img src="/images/4288583_document_file_research_resume_search_icon.png" alt="Resume" width="60" height="60">&emsp;
+<img src="/images/linkeid.png" alt="LinkedIn" width="80" height="80"> &emsp; <img src="/images/4288583_document_file_research_resume_search_icon.png" alt="Resume" width="60" height="60">&emsp;
 <img src="/images/4202011_email_gmail_mail_logo_social_icon.png" alt="Gmail" width="60" height="60">
 
 <a href="https://www.linkedin.com/in/erick-said-guevara/" class="button">Linkedin</a> &emsp; <a href="https://www.linkedin.com/in/erick-said-guevara/" class="button">Resume</a> &emsp; <a href = "mailto: ericksaid1129@gmail.com">  Email</a>
