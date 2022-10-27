@@ -11,8 +11,6 @@
 * Used the provided dataset to **clean**, **analyze** and **visualize** **data** with the goal of finding the amount of **correlation** between various variables.
 * Using Tidyverse, I was able to visualize the Data, using various functions such as: ggcorplot, ggplot & stat_smooth
 * This project was done in solely in R using R Studio. 
-<label for="file">* Project Difficulty:</label>
-<progress id="file" value="50" max="100"> 50% </progress>
 
 ![alt text](/images/geom_point.png)
 
