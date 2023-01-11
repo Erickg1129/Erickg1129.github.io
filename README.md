@@ -3,7 +3,10 @@
 <img src="/images/linkeid.png" alt="LinkedIn" width="60" height="60"> &emsp; <img src="/images/4288583_document_file_research_resume_search_icon.png" alt="Resume" width="60" height="60">&emsp;
 <img src="/images/4202011_email_gmail_mail_logo_social_icon.png" alt="Gmail" width="65" height="65">
 
-<a href="https://www.linkedin.com/in/erick-said-guevara/" class="button">Linkedin</a> &emsp; <a href="https://www.linkedin.com/in/erick-said-guevara/" class="button">Resume</a><a download="Resume EG 2023">; <a href = "mailto: ericksaid1129@gmail.com">  Email</a>
+<a href="https://www.linkedin.com/in/erick-said-guevara/" class="button">Linkedin</a> &emsp; 
+<a href="path_to_file" download="Resume EG 2023">  Resume       </a> 
+<a href = "mailto: ericksaid1129@gmail.com">    Email</a>
+
 
 # Data Science Projects
 ### Project 1 - Tiktok Correlation Project Overview
