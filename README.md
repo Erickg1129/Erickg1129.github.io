@@ -4,7 +4,7 @@
 <img src="/images/4202011_email_gmail_mail_logo_social_icon.png" alt="Gmail" width="65" height="65">
 
 <a href="https://www.linkedin.com/in/erick-said-guevara/" class="button">Linkedin</a> &emsp; 
-<a href="path_to_file" download="Resume EG 2023.pdf">  Resume       </a> 
+<a href="path_to_file" download="Resume_EG_2023.pdf">  Resume       </a> 
 <a href = "mailto: ericksaid1129@gmail.com">    Email</a>
 
 
